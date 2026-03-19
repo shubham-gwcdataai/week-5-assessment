@@ -52,7 +52,7 @@ const HeroSection: React.FC = () => {
             </button>
           </div>
 
-          <div className="flex gap-10">
+          <div className="flex gap-10 mb-10">
             {[
               { value: "50+", label: "Soda Flavors" },
               { value: "100+", label: "Exotic Snacks" },
